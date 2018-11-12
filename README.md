@@ -7,7 +7,7 @@
 
 ### Introduction
 
-This project is Ben Hosken's submission to for the Deep RL Nanodegree project 2.
+This project is Ben Hosken's submission to for the Deep RL Nanodegree project 2. The environment was solved in 140 episodes.
 
 This prohject uses the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
